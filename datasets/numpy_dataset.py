@@ -24,17 +24,6 @@ class numpy_dataset(Dataset):  # Inherit from Dataset class
     def __len__(self):
         return len(self.data)
 
-class numpy_dataset_one(Dataset):  # Inherit from Dataset class
-    def __init__(self, data):
-        self.data = torch.from_numpy(data).float()
-
-    def __getitem__(self, index):
-        x = self.data[index]
-        return x
-
-    def __len__(self):
-        return len(self.data)
-
 class numpy_dataset_three(Dataset):  # Inherit from Dataset class
     def __init__(self, data, target, domain, transform=None):
         self.data = torch.from_numpy(data).float()
