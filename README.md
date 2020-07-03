@@ -7,7 +7,7 @@ Segmentation Task (MIUA 2020): Add Link
 
 Age Prediction Task (MICCAI 2020)
 ---------------------------------
-    ![Network Architecture](/figures/network_architecture)
+    ![Network Architecture](https://github.com/nkdinsdale/Unlearning_for_MRI_harmonisation/edit/master/figures/network_architecture)
 
 
 
