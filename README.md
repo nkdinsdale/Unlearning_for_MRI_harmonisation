@@ -5,7 +5,12 @@ Age Prediction Task (MICCAI 2020): Add Link
 
 Segmentation Task (MIUA 2020): Add Link
 
-## Age Prediction Task (MICCAI 2020)
+Age Prediction Task (MICCAI 2020)
+---------------------------------
+    ![Network Architecture](/figures/network_architecture)
+
+
+
 
 
 
