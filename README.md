@@ -25,7 +25,7 @@ Code supplied was used for the age prediction task but the framework is general 
 Scripts
 -------
 - Fully supervised Training (Normal Supervised) 
-  - Three datasets with training labels available for all tasks. 
+  - Three datasets with training labels available for all datasets. 
 - Biased Distributions (Normal Biased)
   - Two datasets with different distributions for the main task label. Unlearning is completed on the overlap subjects.
 
@@ -33,6 +33,18 @@ Scripts
 GM/WM Segmentation Task (MIUA 2020)
 ---------------------------------
 ![GitHub Logo](/figures/seg_network_new.png)
+
+Code used for the segmentation task for GM/WM/CSF segementation. Architecture is based on the UNet architecture. 
+
+Scripts
+-------
+- Fully supervised training (Segmentation Unlearning)
+  - Two datasets with training labels available for all datasets. 
+- Semisupervised Training (Segmentation Semisupervised)
+  - Two datasets, limited labels available for one dataset. All data points used for unlearning.
+- Multiple unlearning points (Segmentation Unlearning Multi)
+  - Domain predictor located at both final convolution and the bottleneck to explore effect of unlearning location. 
+
   
 
 
