@@ -10,6 +10,7 @@ Segmentation Task (MIUA 2020): Add Link
 Software Versions
 -----------------
 Python 3.5.2
+
 PyTorch 1.0.1.post2
 
 Age Prediction Task (MICCAI 2020)
