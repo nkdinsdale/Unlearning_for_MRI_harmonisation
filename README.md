@@ -9,6 +9,8 @@ Age Prediction Task (MICCAI 2020)
 ---------------------------------
 ![GitHub Logo](/figures/network_architecture.png)
 
+- Fully supervised Training 
+
 
 
 
