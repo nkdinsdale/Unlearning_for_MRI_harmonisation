@@ -7,6 +7,8 @@ Age Prediction Task (MICCAI 2020): Add Link
 
 Segmentation Task (MIUA 2020): https://link.springer.com/chapter/10.1007/978-3-030-52791-4_2
 
+Conference Presentation: https://www.youtube.com/watch?v=CI59VLCwDVA&feature=youtu.be
+
 Citation: Dinsdale N.K., Jenkinson M., Namburete A.I.L. (2020) Unlearning Scanner Bias for MRI Harmonisation in Medical Image Segmentation. In: Papież B., Namburete A., Yaqub M., Noble J. (eds) Medical Image Understanding and Analysis. MIUA 2020. Communications in Computer and Information Science, vol 1248. Springer, Cham
 
 Software Versions
