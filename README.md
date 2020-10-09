@@ -3,7 +3,7 @@
 
 If you use code from this repository please cite the appropriate paper: 
 
-Age Prediction Task (MICCAI 2020): Add Link
+Age Prediction Task (MICCAI 2020): https://link.springer.com/chapter/10.1007/978-3-030-59713-9_36
 
 Segmentation Task (MIUA 2020): https://link.springer.com/chapter/10.1007/978-3-030-52791-4_2
 
