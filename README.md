@@ -1,6 +1,9 @@
 # Unlearning Scanner Bias for MRI Harmonisation
 ## Code for implementation of Unlearning Scanner Bias for MRI Harmonisation
 
+### Preprint available: https://www.biorxiv.org/content/10.1101/2020.10.09.332973v1.full.pdf+html
+
+
 If you use code from this repository please cite the appropriate paper: 
 
 Age Prediction Task (MICCAI 2020): https://link.springer.com/chapter/10.1007/978-3-030-59713-9_36
