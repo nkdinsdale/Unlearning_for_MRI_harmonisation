@@ -3,18 +3,9 @@
 
 ### Preprint available: https://www.biorxiv.org/content/10.1101/2020.10.09.332973v1.full.pdf+html
 
+This is a working release of the code for unlearning scanner bias for MRI Harmonisation. Any issues please contact: nicola.dinsdale@dtc.ox.ac.uk. Further code will be added in time. 
 
-If you use code from this repository please cite the appropriate paper: 
-
-Age Prediction Task (MICCAI 2020): https://link.springer.com/chapter/10.1007/978-3-030-59713-9_36
-
-Segmentation Task (MIUA 2020): https://link.springer.com/chapter/10.1007/978-3-030-52791-4_2
-
-Conference Presentation: https://www.youtube.com/watch?v=CI59VLCwDVA&feature=youtu.be
-
-Citation: Dinsdale N.K., Jenkinson M., Namburete A.I.L. (2020) Unlearning Scanner Bias for MRI Harmonisation in Medical Image Segmentation. In: Papież B., Namburete A., Yaqub M., Noble J. (eds) Medical Image Understanding and Analysis. MIUA 2020. Communications in Computer and Information Science, vol 1248. Springer, Cham
-
-Software Versions
+Software Versions 
 -----------------
 Python 3.5.2
 
@@ -52,6 +43,16 @@ Scripts
 - Multiple unlearning points (Segmentation Unlearning Multi)
   - Domain predictor located at both final convolution and the bottleneck to explore effect of unlearning location. 
 
+
+If you use code from this repository please cite the appropriate paper: 
+
+Age Prediction Task (MICCAI 2020): https://link.springer.com/chapter/10.1007/978-3-030-59713-9_36
+
+Segmentation Task (MIUA 2020): https://link.springer.com/chapter/10.1007/978-3-030-52791-4_2
+
+Conference Presentation: https://www.youtube.com/watch?v=CI59VLCwDVA&feature=youtu.be
+
+Citation: Dinsdale N.K., Jenkinson M., Namburete A.I.L. (2020) Unlearning Scanner Bias for MRI Harmonisation in Medical Image Segmentation. In: Papież B., Namburete A., Yaqub M., Noble J. (eds) Medical Image Understanding and Analysis. MIUA 2020. Communications in Computer and Information Science, vol 1248. Springer, Cham
   
 
 
