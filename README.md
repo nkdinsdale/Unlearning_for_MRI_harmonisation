@@ -1,7 +1,7 @@
 # Unlearning Scanner Bias for MRI Harmonisation
 ## Code for implementation of Unlearning Scanner Bias for MRI Harmonisation
 
-### Journal Paper Published: doi.org/10.1016/j.neuroimage.2020.117689
+### Journal Paper Published: https://doi.org/10.1016/j.neuroimage.2020.117689
 
 This is a working release of the code for unlearning scanner bias for MRI Harmonisation. Any issues please contact: nicola.dinsdale@dtc.ox.ac.uk. Further code will be added in time. 
 
