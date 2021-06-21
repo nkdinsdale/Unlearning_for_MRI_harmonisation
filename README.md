@@ -63,14 +63,3 @@ year = {2021},
 doi = {https://doi.org/10.1016/j.neuroimage.2020.117689},
 author = {Nicola K. Dinsdale and Mark Jenkinson and Ana I.L. Namburete}
 }
-  
-
-
-
-
-
-
-
-
-
-
