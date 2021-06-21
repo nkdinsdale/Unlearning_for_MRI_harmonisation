@@ -52,7 +52,17 @@ Segmentation Task (MIUA 2020): https://link.springer.com/chapter/10.1007/978-3-0
 
 Conference Presentation: https://www.youtube.com/watch?v=CI59VLCwDVA&feature=youtu.be
 
-Citation: Dinsdale N.K., Jenkinson M., Namburete A.I.L. (2020) Unlearning Scanner Bias for MRI Harmonisation in Medical Image Segmentation. In: Papież B., Namburete A., Yaqub M., Noble J. (eds) Medical Image Understanding and Analysis. MIUA 2020. Communications in Computer and Information Science, vol 1248. Springer, Cham
+Citation:
+
+```@article{DINSDALE2021117689,
+title = {Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal},
+journal = {NeuroImage},
+volume = {228},
+pages = {117689},
+year = {2021},
+doi = {https://doi.org/10.1016/j.neuroimage.2020.117689},
+author = {Nicola K. Dinsdale and Mark Jenkinson and Ana I.L. Namburete}
+}
   
 
 
